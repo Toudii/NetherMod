@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "gra:blocks/wasted_block",
+    "up": "gra:blocks/wasted_block",
+    "north": "gra:blocks/wasted_block",
+    "east": "gra:blocks/wasted_block",
+    "south": "gra:blocks/wasted_block",
+    "west": "gra:blocks/wasted_block",
+    "particle": "gra:blocks/wasted_block"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "gra:blocks/endrite_ore",
+    "particle": "gra:blocks/endrite_ore"
+  }
+}

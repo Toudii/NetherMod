@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_sword"
+  },
+  "addition": {
+    "item": "gra:crimson_ingot"
+  },
+  "result": {
+    "item": "gra:crimson_sword"
+  }
+}

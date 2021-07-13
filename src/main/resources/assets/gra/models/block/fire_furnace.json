@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "gra:blocks/fire_furnace_top",
+    "up": "gra:blocks/fire_furnace_top",
+    "north": "gra:blocks/fire_furnace",
+    "east": "gra:blocks/fire_furnace_side",
+    "south": "gra:blocks/fire_furnace_side",
+    "west": "gra:blocks/fire_furnace_side",
+    "particle": "gra:blocks/fire_furnace_top"
+  }
+}

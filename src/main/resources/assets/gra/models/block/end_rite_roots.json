@@ -1,0 +1,7 @@
+{
+  "parent": "block/tinted_cross",
+  "textures": {
+    "cross": "gra:blocks/endrite_roots",
+    "particle": "gra:blocks/endrite_roots"
+  }
+}

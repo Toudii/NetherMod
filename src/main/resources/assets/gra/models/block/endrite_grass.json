@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "gra:blocks/end_stone",
+    "up": "gra:blocks/warped_nylium",
+    "north": "gra:blocks/endrite_nylium",
+    "east": "gra:blocks/endrite_nylium",
+    "south": "gra:blocks/endrite_nylium",
+    "west": "gra:blocks/endrite_nylium",
+    "particle": "gra:blocks/end_stone"
+  }
+}

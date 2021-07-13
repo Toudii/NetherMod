@@ -1,0 +1,42 @@
+{
+  "group": "gra",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:nether_wart"
+    },
+    "1": {
+      "item": "minecraft:nether_wart"
+    },
+    "2": {
+      "item": "minecraft:nether_wart"
+    },
+    "3": {
+      "item": "minecraft:nether_wart"
+    },
+    "4": {
+      "item": "minecraft:coal"
+    },
+    "5": {
+      "item": "minecraft:nether_wart"
+    },
+    "6": {
+      "item": "minecraft:nether_wart"
+    },
+    "7": {
+      "item": "minecraft:nether_wart"
+    },
+    "8": {
+      "item": "minecraft:nether_wart"
+    }
+  },
+  "result": {
+    "item": "gra:deleted_mod_element",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_axe"
+  },
+  "addition": {
+    "item": "gra:endrite_ingot"
+  },
+  "result": {
+    "item": "gra:endrite_axe"
+  }
+}

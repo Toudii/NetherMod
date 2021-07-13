@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "gra:blocks/endrite_block",
+    "up": "gra:blocks/endrite_block",
+    "north": "gra:blocks/endrite_block",
+    "east": "gra:blocks/endrite_block",
+    "south": "gra:blocks/endrite_block",
+    "west": "gra:blocks/endrite_block",
+    "particle": "gra:blocks/endrite_block"
+  }
+}

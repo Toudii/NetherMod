@@ -1,0 +1,382 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #0",
+          "x": 186,
+          "y": 97
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #1",
+          "x": 175,
+          "y": 60
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 2,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "onTakenFromSlot": {
+            "name": "Whenitemremovedfromslot"
+          },
+          "name": "Slot #2",
+          "x": 234,
+          "y": 60
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Fire Furnace",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "Fire Furnace",
+          "x": 186,
+          "y": 41
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Inventory",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "Inventory",
+          "x": 132,
+          "y": 107
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrowanimatioon1.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "PBD0"
+          },
+          "name": "arrowanimatioon1.png",
+          "x": 204,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrowanimation1.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "PBD1"
+          },
+          "name": "arrowanimation1.png",
+          "x": 204,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrowanimation2.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "PBD2"
+          },
+          "name": "arrowanimation2.png",
+          "x": 204,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrowanimation3.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "PBD3"
+          },
+          "name": "arrowanimation3.png",
+          "x": 204,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrowanimation4.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "PBD4"
+          },
+          "name": "arrowanimation4.png",
+          "x": 204,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrowanimation5.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "PBD5"
+          },
+          "name": "arrowanimation5.png",
+          "x": 204,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrowanimation6.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "PBD6"
+          },
+          "name": "arrowanimation6.png",
+          "x": 204,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrowanimation7.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "PBD7"
+          },
+          "name": "arrowanimation7.png",
+          "x": 204,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrowanimation8.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "PBD8"
+          },
+          "name": "arrowanimation8.png",
+          "x": 204,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrowanimation9.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "PBD9"
+          },
+          "name": "arrowanimation9.png",
+          "x": 204,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrowanimation10.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "PBD10"
+          },
+          "name": "arrowanimation10.png",
+          "x": 204,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrowanimation11.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "PBD11"
+          },
+          "name": "arrowanimation11.png",
+          "x": 204,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrowanimation12.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "PBD12"
+          },
+          "name": "arrowanimation12.png",
+          "x": 204,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrowanimation13.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "PBD13"
+          },
+          "name": "arrowanimation13.png",
+          "x": 204,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrowanimation14.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "PBD14"
+          },
+          "name": "arrowanimation14.png",
+          "x": 204,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrowanimation15.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "PBD15"
+          },
+          "name": "arrowanimation15.png",
+          "x": 204,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrowanimation16.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "PBD16"
+          },
+          "name": "arrowanimation16.png",
+          "x": 204,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrowanimation17.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "PBD17"
+          },
+          "name": "arrowanimation17.png",
+          "x": 204,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrowanimation18.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "PBD18"
+          },
+          "name": "arrowanimation18.png",
+          "x": 204,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrowanimation19.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "PBD19"
+          },
+          "name": "arrowanimation19.png",
+          "x": 204,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrowanimation20.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "PBD20"
+          },
+          "name": "arrowanimation20.png",
+          "x": 204,
+          "y": 62
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<BNBT:integer:burnTime>",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "<BNBT:integer:burnTime>",
+          "x": 205,
+          "y": 101
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<BNBT:integer:furnaceSpeed>",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "<BNBT:integer:furnaceSpeed>",
+          "x": 254,
+          "y": 62
+        }
+      }
+    ]
+  }
+}

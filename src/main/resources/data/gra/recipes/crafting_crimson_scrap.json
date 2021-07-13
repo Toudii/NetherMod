@@ -1,0 +1,42 @@
+{
+  "group": "gra",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "gra:crimson_nugget"
+    },
+    "1": {
+      "item": "gra:crimson_nugget"
+    },
+    "2": {
+      "item": "gra:crimson_nugget"
+    },
+    "3": {
+      "item": "gra:crimson_nugget"
+    },
+    "4": {
+      "item": "gra:crimson_nugget"
+    },
+    "5": {
+      "item": "gra:crimson_nugget"
+    },
+    "6": {
+      "item": "gra:crimson_nugget"
+    },
+    "7": {
+      "item": "gra:crimson_nugget"
+    },
+    "8": {
+      "item": "gra:crimson_nugget"
+    }
+  },
+  "result": {
+    "item": "gra:crimson_ingot",
+    "count": 1
+  }
+}

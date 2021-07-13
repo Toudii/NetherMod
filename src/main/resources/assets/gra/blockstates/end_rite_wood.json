@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "gra:block/end_rite_wood"
+    },
+    "facing=north": {
+      "model": "gra:block/end_rite_wood"
+    },
+    "facing=east": {
+      "model": "gra:block/end_rite_wood",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "gra:block/end_rite_wood",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "gra:block/end_rite_wood",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "gra:block/end_rite_wood",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

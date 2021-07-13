@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_chestplate"
+  },
+  "addition": {
+    "item": "gra:crimson_ingot"
+  },
+  "result": {
+    "item": "gra:crimson_armor_chestplate"
+  }
+}

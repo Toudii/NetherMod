@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_leggings"
+  },
+  "addition": {
+    "item": "gra:endrite_ingot"
+  },
+  "result": {
+    "item": "gra:endrite_armor_leggings"
+  }
+}

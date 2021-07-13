@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "gra:block/fire_furnace"
+    },
+    "facing=east": {
+      "model": "gra:block/fire_furnace",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "gra:block/fire_furnace",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "gra:block/fire_furnace",
+      "y": 270
+    }
+  }
+}
