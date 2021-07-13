@@ -1705,6 +1705,10 @@
             "children": []
           }
         ]
+      },
+      {
+        "name": "as",
+        "children": []
       }
     ]
   },
