@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "gra:block/the_nether_portal_ew"
+    },
+    "axis=x": {
+      "model": "gra:block/the_nether_portal_ns"
+    }
+  }
+}

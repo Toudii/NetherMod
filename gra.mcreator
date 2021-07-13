@@ -9,7 +9,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crimson_ore",
-      "path": "~/CrimsonRiteBiom"
+      "path": "~/CrimsonRiteBiom/Block"
     },
     {
       "name": "CrimsonIngot",
@@ -19,7 +19,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crimson_ingot",
-      "path": "~/CrimsonRiteBiom"
+      "path": "~/CrimsonRiteBiom/Items"
     },
     {
       "name": "WastedOre",
@@ -48,7 +48,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "red_furnace"
+      "registry_name": "red_furnace",
+      "path": "~/Furnace/FireFurnace"
     },
     {
       "name": "FireFurnaceUpdateTick",
@@ -77,7 +78,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Furnace/FireFurnace"
     },
     {
       "name": "FurnaceFuel",
@@ -106,7 +108,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Furnace/FireFurnace"
     },
     {
       "name": "XPReward",
@@ -135,7 +138,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Furnace/FireFurnace"
     },
     {
       "name": "Whenitemremovedfromslot",
@@ -168,36 +172,8 @@
             "type": "world"
           }
         ]
-      }
-    },
-    {
-      "name": "Customfurnaceupdatatick",
-      "type": "procedure",
-      "sortid": 13,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "customfurnaceupdatatick",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
+      },
+      "path": "~/Furnace/FireFurnace"
     },
     {
       "name": "PBD1",
@@ -837,7 +813,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crimson_nugget",
-      "path": "~/CrimsonRiteBiom"
+      "path": "~/CrimsonRiteBiom/Items"
     },
     {
       "name": "CraftingCrimsonScrap",
@@ -847,7 +823,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crafting_crimson_scrap",
-      "path": "~/CrimsonRiteBiom"
+      "path": "~/CrimsonRiteBiom/Recipes"
     },
     {
       "name": "WastedNugget",
@@ -883,7 +859,7 @@
         "eb": true,
         "ec": true
       },
-      "path": "~/CrimsonRiteBiom"
+      "path": "~/CrimsonRiteBiom/Items"
     },
     {
       "name": "CraftingCrimsonHelmet",
@@ -893,7 +869,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crafting_crimson_helmet",
-      "path": "~/CrimsonRiteBiom"
+      "path": "~/CrimsonRiteBiom/Recipes"
     },
     {
       "name": "CraftingCrimsonChestplate",
@@ -903,7 +879,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crafting_crimson_chestplate",
-      "path": "~/CrimsonRiteBiom"
+      "path": "~/CrimsonRiteBiom/Recipes"
     },
     {
       "name": "CraftingCrimsonBoots",
@@ -913,7 +889,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crafting_crimson_boots",
-      "path": "~/CrimsonRiteBiom"
+      "path": "~/CrimsonRiteBiom/Recipes"
     },
     {
       "name": "CraftingCrimsonLeggings",
@@ -923,7 +899,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crafting_crimson_leggings",
-      "path": "~/CrimsonRiteBiom"
+      "path": "~/CrimsonRiteBiom/Recipes"
     },
     {
       "name": "CrimsonSword",
@@ -933,7 +909,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crimson_sword",
-      "path": "~/CrimsonRiteBiom"
+      "path": "~/CrimsonRiteBiom/Items"
     },
     {
       "name": "CrimsonHoe",
@@ -943,7 +919,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crimson_hoe",
-      "path": "~/CrimsonRiteBiom"
+      "path": "~/CrimsonRiteBiom/Items"
     },
     {
       "name": "CrimsonPickaxe",
@@ -953,7 +929,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crimson_pickaxe",
-      "path": "~/CrimsonRiteBiom"
+      "path": "~/CrimsonRiteBiom/Items"
     },
     {
       "name": "CrimsonShovel",
@@ -963,7 +939,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crimson_shovel",
-      "path": "~/CrimsonRiteBiom"
+      "path": "~/CrimsonRiteBiom/Items"
     },
     {
       "name": "WastedArmor",
@@ -999,7 +975,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crimson_axe",
-      "path": "~/CrimsonRiteBiom"
+      "path": "~/CrimsonRiteBiom/Items"
     },
     {
       "name": "WastedPickaxe",
@@ -1089,7 +1065,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crafting_crimson_hoe",
-      "path": "~/CrimsonRiteBiom"
+      "path": "~/CrimsonRiteBiom/Recipes"
     },
     {
       "name": "CraftingCrimsonShovel",
@@ -1099,7 +1075,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crafting_crimson_shovel",
-      "path": "~/CrimsonRiteBiom"
+      "path": "~/CrimsonRiteBiom/Recipes"
     },
     {
       "name": "CraftingCrimsonAxe",
@@ -1109,7 +1085,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crafting_crimson_axe",
-      "path": "~/CrimsonRiteBiom"
+      "path": "~/CrimsonRiteBiom/Recipes"
     },
     {
       "name": "CraftingCrimsonPickaxe",
@@ -1119,7 +1095,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crafting_crimson_pickaxe",
-      "path": "~/CrimsonRiteBiom"
+      "path": "~/CrimsonRiteBiom/Recipes"
     },
     {
       "name": "CraftingCrimsonSword",
@@ -1129,7 +1105,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crafting_crimson_sword",
-      "path": "~/CrimsonRiteBiom"
+      "path": "~/CrimsonRiteBiom/Recipes"
     },
     {
       "name": "CraftingWastedSword",
@@ -1189,7 +1165,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crimson_block",
-      "path": "~/CrimsonRiteBiom"
+      "path": "~/CrimsonRiteBiom/Block"
     },
     {
       "name": "WastedBlock",
@@ -1414,7 +1390,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "fire_furnace"
+      "registry_name": "fire_furnace",
+      "path": "~/Furnace/FireFurnace"
     },
     {
       "name": "EndriteGrassAdditionalGenerationCondition",
@@ -1597,6 +1574,18 @@
       "ids": {},
       "registry_name": "end_rite_roots",
       "path": "~/EndRiteBiom                                          /Block"
+    },
+    {
+      "name": "NetherNew",
+      "type": "dimension",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_nether",
+      "metadata": {
+        "ep": true
+      }
     }
   ],
   "variable_elements": [],
@@ -1628,6 +1617,7 @@
       "item.gra.crimson_armor_boots": "Crimson Armor Boots",
       "block.gra.endrite_block": "Wasted Block",
       "item.gra.wasted_ingot": "Wasted Ingot",
+      "item.gra.the_nether": "Nether New Portal Igniter",
       "item.gra.crimson_armor_helmet": "Crimson Armor Helmet",
       "item.gra.crimson_nugget": "Crimson Nugget",
       "item.gra.crimson_shovel": "Crimson Shovel",
@@ -1684,11 +1674,37 @@
       },
       {
         "name": "CrimsonRiteBiom",
-        "children": []
+        "children": [
+          {
+            "name": "Block",
+            "children": []
+          },
+          {
+            "name": "Items",
+            "children": []
+          },
+          {
+            "name": "Recipes",
+            "children": []
+          },
+          {
+            "name": "Entities",
+            "children": []
+          }
+        ]
       },
       {
         "name": "WastedRiteBiom",
         "children": []
+      },
+      {
+        "name": "Furnace",
+        "children": [
+          {
+            "name": "FireFurnace",
+            "children": []
+          }
+        ]
       }
     ]
   },
