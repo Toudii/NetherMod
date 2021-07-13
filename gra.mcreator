@@ -8,7 +8,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crimson_ore"
+      "registry_name": "crimson_ore",
+      "path": "~/CrimsonRiteBiom"
     },
     {
       "name": "CrimsonIngot",
@@ -17,7 +18,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crimson_ingot"
+      "registry_name": "crimson_ingot",
+      "path": "~/CrimsonRiteBiom"
     },
     {
       "name": "WastedOre",
@@ -26,7 +28,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wasted_ore"
+      "registry_name": "wasted_ore",
+      "path": "~/WastedRiteBiom"
     },
     {
       "name": "WastedIngot",
@@ -35,7 +38,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wasted_ingot"
+      "registry_name": "wasted_ingot",
+      "path": "~/WastedRiteBiom"
     },
     {
       "name": "RedFurnace",
@@ -832,7 +836,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crimson_nugget"
+      "registry_name": "crimson_nugget",
+      "path": "~/CrimsonRiteBiom"
     },
     {
       "name": "CraftingCrimsonScrap",
@@ -841,7 +846,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_crimson_scrap"
+      "registry_name": "crafting_crimson_scrap",
+      "path": "~/CrimsonRiteBiom"
     },
     {
       "name": "WastedNugget",
@@ -850,7 +856,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wasted_nugget"
+      "registry_name": "wasted_nugget",
+      "path": "~/WastedRiteBiom"
     },
     {
       "name": "CraftingWastedScrap",
@@ -859,16 +866,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_wasted_scrap"
-    },
-    {
-      "name": "CreftingFireCoal",
-      "type": "recipe",
-      "sortid": 41,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "crefting_fire_coal"
+      "registry_name": "crafting_wasted_scrap",
+      "path": "~/WastedRiteBiom"
     },
     {
       "name": "CrimsonArmor",
@@ -883,7 +882,8 @@
         "el": true,
         "eb": true,
         "ec": true
-      }
+      },
+      "path": "~/CrimsonRiteBiom"
     },
     {
       "name": "CraftingCrimsonHelmet",
@@ -892,7 +892,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_crimson_helmet"
+      "registry_name": "crafting_crimson_helmet",
+      "path": "~/CrimsonRiteBiom"
     },
     {
       "name": "CraftingCrimsonChestplate",
@@ -901,7 +902,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_crimson_chestplate"
+      "registry_name": "crafting_crimson_chestplate",
+      "path": "~/CrimsonRiteBiom"
     },
     {
       "name": "CraftingCrimsonBoots",
@@ -910,7 +912,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_crimson_boots"
+      "registry_name": "crafting_crimson_boots",
+      "path": "~/CrimsonRiteBiom"
     },
     {
       "name": "CraftingCrimsonLeggings",
@@ -919,7 +922,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_crimson_leggings"
+      "registry_name": "crafting_crimson_leggings",
+      "path": "~/CrimsonRiteBiom"
     },
     {
       "name": "CrimsonSword",
@@ -928,7 +932,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crimson_sword"
+      "registry_name": "crimson_sword",
+      "path": "~/CrimsonRiteBiom"
     },
     {
       "name": "CrimsonHoe",
@@ -937,7 +942,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crimson_hoe"
+      "registry_name": "crimson_hoe",
+      "path": "~/CrimsonRiteBiom"
     },
     {
       "name": "CrimsonPickaxe",
@@ -946,7 +952,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crimson_pickaxe"
+      "registry_name": "crimson_pickaxe",
+      "path": "~/CrimsonRiteBiom"
     },
     {
       "name": "CrimsonShovel",
@@ -955,7 +962,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crimson_shovel"
+      "registry_name": "crimson_shovel",
+      "path": "~/CrimsonRiteBiom"
     },
     {
       "name": "WastedArmor",
@@ -970,7 +978,8 @@
         "el": true,
         "eb": true,
         "ec": true
-      }
+      },
+      "path": "~/WastedRiteBiom"
     },
     {
       "name": "WastedSword",
@@ -979,7 +988,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wasted_sword"
+      "registry_name": "wasted_sword",
+      "path": "~/WastedRiteBiom"
     },
     {
       "name": "CrimsonAxe",
@@ -988,7 +998,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crimson_axe"
+      "registry_name": "crimson_axe",
+      "path": "~/CrimsonRiteBiom"
     },
     {
       "name": "WastedPickaxe",
@@ -997,7 +1008,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wasted_pickaxe"
+      "registry_name": "wasted_pickaxe",
+      "path": "~/WastedRiteBiom"
     },
     {
       "name": "WastedAxe",
@@ -1006,7 +1018,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wasted_axe"
+      "registry_name": "wasted_axe",
+      "path": "~/WastedRiteBiom"
     },
     {
       "name": "WastedShovel",
@@ -1015,7 +1028,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wasted_shovel"
+      "registry_name": "wasted_shovel",
+      "path": "~/WastedRiteBiom"
     },
     {
       "name": "CraftingWastedHelmet",
@@ -1024,7 +1038,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_wasted_helmet"
+      "registry_name": "crafting_wasted_helmet",
+      "path": "~/WastedRiteBiom"
     },
     {
       "name": "CraftingWastedChetsplate",
@@ -1033,7 +1048,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_wasted_chetsplate"
+      "registry_name": "crafting_wasted_chetsplate",
+      "path": "~/WastedRiteBiom"
     },
     {
       "name": "CraftingWastedLeggings",
@@ -1042,7 +1058,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_wasted_leggings"
+      "registry_name": "crafting_wasted_leggings",
+      "path": "~/WastedRiteBiom"
     },
     {
       "name": "CraftingWastedBoots",
@@ -1051,7 +1068,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_wasted_boots"
+      "registry_name": "crafting_wasted_boots",
+      "path": "~/WastedRiteBiom"
     },
     {
       "name": "WastedHoe",
@@ -1060,7 +1078,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wasted_hoe"
+      "registry_name": "wasted_hoe",
+      "path": "~/WastedRiteBiom"
     },
     {
       "name": "CraftingCrimsonHoe",
@@ -1069,7 +1088,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_crimson_hoe"
+      "registry_name": "crafting_crimson_hoe",
+      "path": "~/CrimsonRiteBiom"
     },
     {
       "name": "CraftingCrimsonShovel",
@@ -1078,7 +1098,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_crimson_shovel"
+      "registry_name": "crafting_crimson_shovel",
+      "path": "~/CrimsonRiteBiom"
     },
     {
       "name": "CraftingCrimsonAxe",
@@ -1087,7 +1108,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_crimson_axe"
+      "registry_name": "crafting_crimson_axe",
+      "path": "~/CrimsonRiteBiom"
     },
     {
       "name": "CraftingCrimsonPickaxe",
@@ -1096,7 +1118,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_crimson_pickaxe"
+      "registry_name": "crafting_crimson_pickaxe",
+      "path": "~/CrimsonRiteBiom"
     },
     {
       "name": "CraftingCrimsonSword",
@@ -1105,7 +1128,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_crimson_sword"
+      "registry_name": "crafting_crimson_sword",
+      "path": "~/CrimsonRiteBiom"
     },
     {
       "name": "CraftingWastedSword",
@@ -1114,7 +1138,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_wasted_sword"
+      "registry_name": "crafting_wasted_sword",
+      "path": "~/WastedRiteBiom"
     },
     {
       "name": "CraftingWastedPickaxe",
@@ -1123,7 +1148,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_wasted_pickaxe"
+      "registry_name": "crafting_wasted_pickaxe",
+      "path": "~/WastedRiteBiom"
     },
     {
       "name": "CraftingWastedAxe",
@@ -1132,7 +1158,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_wasted_axe"
+      "registry_name": "crafting_wasted_axe",
+      "path": "~/WastedRiteBiom"
     },
     {
       "name": "CraftingWastedShovel",
@@ -1141,7 +1168,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_wasted_shovel"
+      "registry_name": "crafting_wasted_shovel",
+      "path": "~/WastedRiteBiom"
     },
     {
       "name": "CraftingWastedHoe",
@@ -1150,7 +1178,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_wasted_hoe"
+      "registry_name": "crafting_wasted_hoe",
+      "path": "~/WastedRiteBiom"
     },
     {
       "name": "CrimsonBlock",
@@ -1159,7 +1188,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crimson_block"
+      "registry_name": "crimson_block",
+      "path": "~/CrimsonRiteBiom"
     },
     {
       "name": "WastedBlock",
@@ -1168,7 +1198,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wasted_block"
+      "registry_name": "wasted_block",
+      "path": "~/WastedRiteBiom"
     },
     {
       "name": "EndriteOre",
@@ -1413,7 +1444,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/EndRiteBiom                                          /Block/Procedure"
     },
     {
       "name": "EndriteGrass",
@@ -1472,7 +1504,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/EndRiteBiom                                          /Block/Procedure"
     },
     {
       "name": "EndRiteStemSmall1",
@@ -1552,7 +1585,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/EndRiteBiom                                          /Block/Procedure"
     },
     {
       "name": "EndRiteRoots",
@@ -1627,7 +1661,12 @@
           },
           {
             "name": "Block",
-            "children": []
+            "children": [
+              {
+                "name": "Procedure",
+                "children": []
+              }
+            ]
           },
           {
             "name": "Entities",
@@ -1642,6 +1681,14 @@
             "children": []
           }
         ]
+      },
+      {
+        "name": "CrimsonRiteBiom",
+        "children": []
+      },
+      {
+        "name": "WastedRiteBiom",
+        "children": []
       }
     ]
   },
