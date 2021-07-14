@@ -1184,8 +1184,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "endrite_ore",
-      "path": "~/EndRiteBiom                                          /Block"
+      "registry_name": "endrite_ore"
     },
     {
       "name": "EndriteBlock",
@@ -1194,8 +1193,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "endrite_block",
-      "path": "~/EndRiteBiom                                          /Block"
+      "registry_name": "endrite_block"
     },
     {
       "name": "EndriteIngot",
@@ -1204,8 +1202,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "endrite_ingot",
-      "path": "~/EndRiteBiom                                          /Items"
+      "registry_name": "endrite_ingot"
     },
     {
       "name": "EndriteNugget",
@@ -1214,8 +1211,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "endrite_nugget",
-      "path": "~/EndRiteBiom                                          /Items"
+      "registry_name": "endrite_nugget"
     },
     {
       "name": "EndriteSword",
@@ -1224,8 +1220,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "endrite_sword",
-      "path": "~/EndRiteBiom                                          /Items"
+      "registry_name": "endrite_sword"
     },
     {
       "name": "EndriteHoe",
@@ -1234,8 +1229,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "endrite_hoe",
-      "path": "~/EndRiteBiom                                          /Items"
+      "registry_name": "endrite_hoe"
     },
     {
       "name": "EndritePickaxe",
@@ -1244,8 +1238,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "endrite_pickaxe",
-      "path": "~/EndRiteBiom                                          /Items"
+      "registry_name": "endrite_pickaxe"
     },
     {
       "name": "EndriteShovel",
@@ -1254,8 +1247,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "endrite_shovel",
-      "path": "~/EndRiteBiom                                          /Items"
+      "registry_name": "endrite_shovel"
     },
     {
       "name": "EndriteAxe",
@@ -1264,8 +1256,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "endrite_axe",
-      "path": "~/EndRiteBiom                                          /Items"
+      "registry_name": "endrite_axe"
     },
     {
       "name": "EndriteArmor",
@@ -1280,8 +1271,7 @@
         "el": true,
         "eb": true,
         "ec": true
-      },
-      "path": "~/EndRiteBiom                                          /Items"
+      }
     },
     {
       "name": "CraftingEndriteScrap",
@@ -1290,8 +1280,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_endrite_scrap",
-      "path": "~/EndRiteBiom                                          /Recipes"
+      "registry_name": "crafting_endrite_scrap"
     },
     {
       "name": "CraftingEndriteHelmet",
@@ -1300,8 +1289,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_endrite_helmet",
-      "path": "~/EndRiteBiom                                          /Recipes"
+      "registry_name": "crafting_endrite_helmet"
     },
     {
       "name": "CraftingEndriteChestplate",
@@ -1310,8 +1298,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_endrite_chestplate",
-      "path": "~/EndRiteBiom                                          /Recipes"
+      "registry_name": "crafting_endrite_chestplate"
     },
     {
       "name": "CraftingEndriteBoots",
@@ -1320,8 +1307,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_endrite_boots",
-      "path": "~/EndRiteBiom                                          /Recipes"
+      "registry_name": "crafting_endrite_boots"
     },
     {
       "name": "CraftingEndriteLeggings",
@@ -1330,8 +1316,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_endrite_leggings",
-      "path": "~/EndRiteBiom                                          /Recipes"
+      "registry_name": "crafting_endrite_leggings"
     },
     {
       "name": "CraftingEndriteHoe",
@@ -1340,8 +1325,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_endrite_hoe",
-      "path": "~/EndRiteBiom                                          /Recipes"
+      "registry_name": "crafting_endrite_hoe"
     },
     {
       "name": "CraftingEndriteShovel",
@@ -1350,8 +1334,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_endrite_shovel",
-      "path": "~/EndRiteBiom                                          /Recipes"
+      "registry_name": "crafting_endrite_shovel"
     },
     {
       "name": "CraftingEndriteAxe",
@@ -1360,8 +1343,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_endrite_axe",
-      "path": "~/EndRiteBiom                                          /Recipes"
+      "registry_name": "crafting_endrite_axe"
     },
     {
       "name": "CraftingEndritePickaxe",
@@ -1370,8 +1352,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_endrite_pickaxe",
-      "path": "~/EndRiteBiom                                          /Recipes"
+      "registry_name": "crafting_endrite_pickaxe"
     },
     {
       "name": "CraftingEndriteSword",
@@ -1380,8 +1361,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_endrite_sword",
-      "path": "~/EndRiteBiom                                          /Recipes"
+      "registry_name": "crafting_endrite_sword"
     },
     {
       "name": "FireFurnace",
@@ -1394,45 +1374,13 @@
       "path": "~/Furnace/FireFurnace"
     },
     {
-      "name": "EndriteGrassAdditionalGenerationCondition",
-      "type": "procedure",
-      "sortid": 87,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "endrite_grass_additional_generation_condition",
-      "metadata": {
-        "return_type": "LOGIC",
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/EndRiteBiom                                          /Block/Procedure"
-    },
-    {
       "name": "EndriteGrass",
       "type": "block",
       "sortid": 89,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "endrite_grass",
-      "path": "~/EndRiteBiom                                          /Block"
+      "registry_name": "endrite_grass"
     },
     {
       "name": "EndRiteWood",
@@ -1441,8 +1389,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "end_rite_wood",
-      "path": "~/EndRiteBiom                                          /Block"
+      "registry_name": "end_rite_wood"
     },
     {
       "name": "EndRiteWart",
@@ -1451,38 +1398,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "end_rite_wart",
-      "path": "~/EndRiteBiom                                          /Block"
-    },
-    {
-      "name": "EndriteGrassNeighbourBlockChanges",
-      "type": "procedure",
-      "sortid": 96,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "endrite_grass_neighbour_block_changes",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/EndRiteBiom                                          /Block/Procedure"
+      "registry_name": "end_rite_wart"
     },
     {
       "name": "EndRiteStemSmall1",
@@ -1491,8 +1407,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "end_rite_stem_small_1",
-      "path": "~/EndRiteBiom                                          /Structure"
+      "registry_name": "end_rite_stem_small_1"
     },
     {
       "name": "EndRiteStemSmall2",
@@ -1501,8 +1416,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "end_rite_stem_small_2",
-      "path": "~/EndRiteBiom                                          /Structure"
+      "registry_name": "end_rite_stem_small_2"
     },
     {
       "name": "EndRiteStemMedium",
@@ -1511,8 +1425,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "end_rite_stem_medium",
-      "path": "~/EndRiteBiom                                          /Structure"
+      "registry_name": "end_rite_stem_medium"
     },
     {
       "name": "EndRiteStemLarge",
@@ -1521,8 +1434,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "end_rite_stem_large",
-      "path": "~/EndRiteBiom                                          /Structure"
+      "registry_name": "end_rite_stem_large"
     },
     {
       "name": "EndRiteStemBig",
@@ -1531,39 +1443,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "end_rite_stem_big",
-      "path": "~/EndRiteBiom                                          /Structure"
-    },
-    {
-      "name": "EndRiteRootsAdditionalGenerationCondition",
-      "type": "procedure",
-      "sortid": 102,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "end_rite_roots_additional_generation_condition",
-      "metadata": {
-        "return_type": "LOGIC",
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/EndRiteBiom                                          /Block/Procedure"
+      "registry_name": "end_rite_stem_big"
     },
     {
       "name": "EndRiteRoots",
@@ -1572,8 +1452,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "end_rite_roots",
-      "path": "~/EndRiteBiom                                          /Block"
+      "registry_name": "end_rite_roots"
     },
     {
       "name": "NetherNew",
@@ -1643,36 +1522,6 @@
     "name": "~",
     "children": [
       {
-        "name": "EndRiteBiom                                          ",
-        "children": [
-          {
-            "name": "Items",
-            "children": []
-          },
-          {
-            "name": "Block",
-            "children": [
-              {
-                "name": "Procedure",
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Entities",
-            "children": []
-          },
-          {
-            "name": "Recipes",
-            "children": []
-          },
-          {
-            "name": "Structure",
-            "children": []
-          }
-        ]
-      },
-      {
         "name": "CrimsonRiteBiom",
         "children": [
           {
@@ -1705,6 +1554,22 @@
             "children": []
           }
         ]
+      },
+      {
+        "name": "Block",
+        "children": []
+      },
+      {
+        "name": "Items",
+        "children": []
+      },
+      {
+        "name": "Entity",
+        "children": []
+      },
+      {
+        "name": "Recipes",
+        "children": []
       }
     ]
   },

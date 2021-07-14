@@ -101,28 +101,12 @@
     "isFluidTank": false,
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
-    "onRandomUpdateEvent": {
-      "name": "EndriteGrassNeighbourBlockChanges"
-    },
-    "spawnWorldTypes": [
-      "End"
-    ],
-    "restrictionBiomes": [
-      {
-        "value": "end_highlands"
-      }
-    ],
-    "blocksToReplace": [
-      {
-        "value": "Blocks.END_STONE"
-      }
-    ],
-    "frequencyPerChunks": 64,
-    "frequencyOnChunk": 64,
-    "minGenerateHeight": 64,
-    "maxGenerateHeight": 70,
-    "generateCondition": {
-      "name": "EndriteGrassAdditionalGenerationCondition"
-    }
+    "spawnWorldTypes": [],
+    "restrictionBiomes": [],
+    "blocksToReplace": [],
+    "frequencyPerChunks": 1,
+    "frequencyOnChunk": 1,
+    "minGenerateHeight": 0,
+    "maxGenerateHeight": 64
   }
 }
