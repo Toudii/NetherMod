@@ -9,7 +9,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crimson_ore",
-      "path": "~/CrimsonRiteBiom/Block"
+      "path": "~/Block/Crimson Forest"
     },
     {
       "name": "CrimsonIngot",
@@ -19,7 +19,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crimson_ingot",
-      "path": "~/CrimsonRiteBiom/Items"
+      "path": "~/Items/Crimson Forest"
     },
     {
       "name": "WastedOre",
@@ -29,7 +29,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "wasted_ore",
-      "path": "~/WastedRiteBiom"
+      "path": "~/Block/Wasted Forest"
     },
     {
       "name": "WastedIngot",
@@ -39,7 +39,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "wasted_ingot",
-      "path": "~/WastedRiteBiom"
+      "path": "~/Items/Wasted Forest"
     },
     {
       "name": "RedFurnace",
@@ -203,7 +203,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/FurnaceArrow"
     },
     {
       "name": "PBD2",
@@ -233,7 +234,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/FurnaceArrow"
     },
     {
       "name": "PBD3",
@@ -263,7 +265,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/FurnaceArrow"
     },
     {
       "name": "PBD4",
@@ -293,7 +296,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/FurnaceArrow"
     },
     {
       "name": "PBD5",
@@ -323,7 +327,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/FurnaceArrow"
     },
     {
       "name": "PBD6",
@@ -353,7 +358,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/FurnaceArrow"
     },
     {
       "name": "PBD7",
@@ -383,7 +389,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/FurnaceArrow"
     },
     {
       "name": "PBD8",
@@ -413,7 +420,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/FurnaceArrow"
     },
     {
       "name": "PBD9",
@@ -443,7 +451,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/FurnaceArrow"
     },
     {
       "name": "PBD10",
@@ -473,7 +482,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/FurnaceArrow"
     },
     {
       "name": "PBD11",
@@ -503,7 +513,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/FurnaceArrow"
     },
     {
       "name": "PBD12",
@@ -533,7 +544,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/FurnaceArrow"
     },
     {
       "name": "PBD13",
@@ -563,7 +575,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/FurnaceArrow"
     },
     {
       "name": "PBD14",
@@ -593,7 +606,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/FurnaceArrow"
     },
     {
       "name": "PBD15",
@@ -623,7 +637,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/FurnaceArrow"
     },
     {
       "name": "PBD16",
@@ -653,7 +668,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/FurnaceArrow"
     },
     {
       "name": "PBD17",
@@ -683,7 +699,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/FurnaceArrow"
     },
     {
       "name": "PBD18",
@@ -713,7 +730,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/FurnaceArrow"
     },
     {
       "name": "PBD19",
@@ -743,7 +761,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/FurnaceArrow"
     },
     {
       "name": "PBD0",
@@ -773,7 +792,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/FurnaceArrow"
     },
     {
       "name": "PBD20",
@@ -803,7 +823,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/FurnaceArrow"
     },
     {
       "name": "CrimsonNugget",
@@ -813,7 +834,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crimson_nugget",
-      "path": "~/CrimsonRiteBiom/Items"
+      "path": "~/Items/Crimson Forest"
     },
     {
       "name": "CraftingCrimsonScrap",
@@ -823,7 +844,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crafting_crimson_scrap",
-      "path": "~/CrimsonRiteBiom/Recipes"
+      "path": "~/Recipes/Crimson Forest"
     },
     {
       "name": "WastedNugget",
@@ -833,7 +854,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "wasted_nugget",
-      "path": "~/WastedRiteBiom"
+      "path": "~/Items/Wasted Forest"
     },
     {
       "name": "CraftingWastedScrap",
@@ -843,7 +864,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crafting_wasted_scrap",
-      "path": "~/WastedRiteBiom"
+      "path": "~/Recipes/Wasted Forest"
     },
     {
       "name": "CrimsonArmor",
@@ -859,7 +880,7 @@
         "eb": true,
         "ec": true
       },
-      "path": "~/CrimsonRiteBiom/Items"
+      "path": "~/Items/Crimson Forest"
     },
     {
       "name": "CraftingCrimsonHelmet",
@@ -869,7 +890,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crafting_crimson_helmet",
-      "path": "~/CrimsonRiteBiom/Recipes"
+      "path": "~/Recipes/Crimson Forest"
     },
     {
       "name": "CraftingCrimsonChestplate",
@@ -879,7 +900,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crafting_crimson_chestplate",
-      "path": "~/CrimsonRiteBiom/Recipes"
+      "path": "~/Recipes/Crimson Forest"
     },
     {
       "name": "CraftingCrimsonBoots",
@@ -889,7 +910,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crafting_crimson_boots",
-      "path": "~/CrimsonRiteBiom/Recipes"
+      "path": "~/Recipes/Crimson Forest"
     },
     {
       "name": "CraftingCrimsonLeggings",
@@ -899,7 +920,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crafting_crimson_leggings",
-      "path": "~/CrimsonRiteBiom/Recipes"
+      "path": "~/Recipes/Crimson Forest"
     },
     {
       "name": "CrimsonSword",
@@ -909,7 +930,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crimson_sword",
-      "path": "~/CrimsonRiteBiom/Items"
+      "path": "~/Items/Crimson Forest"
     },
     {
       "name": "CrimsonHoe",
@@ -919,7 +940,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crimson_hoe",
-      "path": "~/CrimsonRiteBiom/Items"
+      "path": "~/Items/Crimson Forest"
     },
     {
       "name": "CrimsonPickaxe",
@@ -929,7 +950,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crimson_pickaxe",
-      "path": "~/CrimsonRiteBiom/Items"
+      "path": "~/Items/Crimson Forest"
     },
     {
       "name": "CrimsonShovel",
@@ -939,7 +960,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crimson_shovel",
-      "path": "~/CrimsonRiteBiom/Items"
+      "path": "~/Items/Crimson Forest"
     },
     {
       "name": "WastedArmor",
@@ -955,7 +976,7 @@
         "eb": true,
         "ec": true
       },
-      "path": "~/WastedRiteBiom"
+      "path": "~/Items/Wasted Forest"
     },
     {
       "name": "WastedSword",
@@ -965,7 +986,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "wasted_sword",
-      "path": "~/WastedRiteBiom"
+      "path": "~/Items/Wasted Forest"
     },
     {
       "name": "CrimsonAxe",
@@ -975,7 +996,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crimson_axe",
-      "path": "~/CrimsonRiteBiom/Items"
+      "path": "~/Items/Crimson Forest"
     },
     {
       "name": "WastedPickaxe",
@@ -985,7 +1006,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "wasted_pickaxe",
-      "path": "~/WastedRiteBiom"
+      "path": "~/Items/Wasted Forest"
     },
     {
       "name": "WastedAxe",
@@ -995,7 +1016,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "wasted_axe",
-      "path": "~/WastedRiteBiom"
+      "path": "~/Items/Wasted Forest"
     },
     {
       "name": "WastedShovel",
@@ -1005,7 +1026,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "wasted_shovel",
-      "path": "~/WastedRiteBiom"
+      "path": "~/Items/Wasted Forest"
     },
     {
       "name": "CraftingWastedHelmet",
@@ -1015,7 +1036,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crafting_wasted_helmet",
-      "path": "~/WastedRiteBiom"
+      "path": "~/Recipes/Wasted Forest"
     },
     {
       "name": "CraftingWastedChetsplate",
@@ -1025,7 +1046,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crafting_wasted_chetsplate",
-      "path": "~/WastedRiteBiom"
+      "path": "~/Recipes/Wasted Forest"
     },
     {
       "name": "CraftingWastedLeggings",
@@ -1035,7 +1056,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crafting_wasted_leggings",
-      "path": "~/WastedRiteBiom"
+      "path": "~/Recipes/Wasted Forest"
     },
     {
       "name": "CraftingWastedBoots",
@@ -1045,7 +1066,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crafting_wasted_boots",
-      "path": "~/WastedRiteBiom"
+      "path": "~/Recipes/Wasted Forest"
     },
     {
       "name": "WastedHoe",
@@ -1055,7 +1076,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "wasted_hoe",
-      "path": "~/WastedRiteBiom"
+      "path": "~/Items/Wasted Forest"
     },
     {
       "name": "CraftingCrimsonHoe",
@@ -1065,7 +1086,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crafting_crimson_hoe",
-      "path": "~/CrimsonRiteBiom/Recipes"
+      "path": "~/Recipes/Crimson Forest"
     },
     {
       "name": "CraftingCrimsonShovel",
@@ -1075,7 +1096,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crafting_crimson_shovel",
-      "path": "~/CrimsonRiteBiom/Recipes"
+      "path": "~/Recipes/Crimson Forest"
     },
     {
       "name": "CraftingCrimsonAxe",
@@ -1085,7 +1106,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crafting_crimson_axe",
-      "path": "~/CrimsonRiteBiom/Recipes"
+      "path": "~/Recipes/Crimson Forest"
     },
     {
       "name": "CraftingCrimsonPickaxe",
@@ -1095,7 +1116,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crafting_crimson_pickaxe",
-      "path": "~/CrimsonRiteBiom/Recipes"
+      "path": "~/Recipes/Crimson Forest"
     },
     {
       "name": "CraftingCrimsonSword",
@@ -1105,7 +1126,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crafting_crimson_sword",
-      "path": "~/CrimsonRiteBiom/Recipes"
+      "path": "~/Recipes/Crimson Forest"
     },
     {
       "name": "CraftingWastedSword",
@@ -1115,7 +1136,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crafting_wasted_sword",
-      "path": "~/WastedRiteBiom"
+      "path": "~/Recipes/Wasted Forest"
     },
     {
       "name": "CraftingWastedPickaxe",
@@ -1125,7 +1146,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crafting_wasted_pickaxe",
-      "path": "~/WastedRiteBiom"
+      "path": "~/Recipes/Wasted Forest"
     },
     {
       "name": "CraftingWastedAxe",
@@ -1135,7 +1156,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crafting_wasted_axe",
-      "path": "~/WastedRiteBiom"
+      "path": "~/Recipes/Wasted Forest"
     },
     {
       "name": "CraftingWastedShovel",
@@ -1145,7 +1166,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crafting_wasted_shovel",
-      "path": "~/WastedRiteBiom"
+      "path": "~/Recipes/Wasted Forest"
     },
     {
       "name": "CraftingWastedHoe",
@@ -1155,7 +1176,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crafting_wasted_hoe",
-      "path": "~/WastedRiteBiom"
+      "path": "~/Recipes/Wasted Forest"
     },
     {
       "name": "CrimsonBlock",
@@ -1165,7 +1186,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crimson_block",
-      "path": "~/CrimsonRiteBiom/Block"
+      "path": "~/Block/Crimson Forest"
     },
     {
       "name": "WastedBlock",
@@ -1175,7 +1196,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "wasted_block",
-      "path": "~/WastedRiteBiom"
+      "path": "~/Block/Wasted Forest"
     },
     {
       "name": "EndriteOre",
@@ -1184,7 +1205,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "endrite_ore"
+      "registry_name": "endrite_ore",
+      "path": "~/Block/Ender Forest"
     },
     {
       "name": "EndriteBlock",
@@ -1193,7 +1215,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "endrite_block"
+      "registry_name": "endrite_block",
+      "path": "~/Block/Ender Forest"
     },
     {
       "name": "EndriteIngot",
@@ -1202,7 +1225,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "endrite_ingot"
+      "registry_name": "endrite_ingot",
+      "path": "~/Items/Ender Forest"
     },
     {
       "name": "EndriteNugget",
@@ -1211,7 +1235,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "endrite_nugget"
+      "registry_name": "endrite_nugget",
+      "path": "~/Items/Ender Forest"
     },
     {
       "name": "EndriteSword",
@@ -1220,7 +1245,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "endrite_sword"
+      "registry_name": "endrite_sword",
+      "path": "~/Items/Ender Forest"
     },
     {
       "name": "EndriteHoe",
@@ -1229,7 +1255,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "endrite_hoe"
+      "registry_name": "endrite_hoe",
+      "path": "~/Items/Ender Forest"
     },
     {
       "name": "EndritePickaxe",
@@ -1238,7 +1265,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "endrite_pickaxe"
+      "registry_name": "endrite_pickaxe",
+      "path": "~/Items/Ender Forest"
     },
     {
       "name": "EndriteShovel",
@@ -1247,7 +1275,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "endrite_shovel"
+      "registry_name": "endrite_shovel",
+      "path": "~/Items/Ender Forest"
     },
     {
       "name": "EndriteAxe",
@@ -1256,7 +1285,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "endrite_axe"
+      "registry_name": "endrite_axe",
+      "path": "~/Items/Ender Forest"
     },
     {
       "name": "EndriteArmor",
@@ -1271,7 +1301,8 @@
         "el": true,
         "eb": true,
         "ec": true
-      }
+      },
+      "path": "~/Items/Ender Forest"
     },
     {
       "name": "CraftingEndriteScrap",
@@ -1280,7 +1311,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_endrite_scrap"
+      "registry_name": "crafting_endrite_scrap",
+      "path": "~/Recipes/Ender Forest"
     },
     {
       "name": "CraftingEndriteHelmet",
@@ -1289,7 +1321,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_endrite_helmet"
+      "registry_name": "crafting_endrite_helmet",
+      "path": "~/Recipes/Ender Forest"
     },
     {
       "name": "CraftingEndriteChestplate",
@@ -1298,7 +1331,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_endrite_chestplate"
+      "registry_name": "crafting_endrite_chestplate",
+      "path": "~/Recipes/Ender Forest"
     },
     {
       "name": "CraftingEndriteBoots",
@@ -1307,7 +1341,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_endrite_boots"
+      "registry_name": "crafting_endrite_boots",
+      "path": "~/Recipes/Ender Forest"
     },
     {
       "name": "CraftingEndriteLeggings",
@@ -1316,7 +1351,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_endrite_leggings"
+      "registry_name": "crafting_endrite_leggings",
+      "path": "~/Recipes/Ender Forest"
     },
     {
       "name": "CraftingEndriteHoe",
@@ -1325,7 +1361,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_endrite_hoe"
+      "registry_name": "crafting_endrite_hoe",
+      "path": "~/Recipes/Ender Forest"
     },
     {
       "name": "CraftingEndriteShovel",
@@ -1334,7 +1371,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_endrite_shovel"
+      "registry_name": "crafting_endrite_shovel",
+      "path": "~/Recipes/Ender Forest"
     },
     {
       "name": "CraftingEndriteAxe",
@@ -1343,7 +1381,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_endrite_axe"
+      "registry_name": "crafting_endrite_axe",
+      "path": "~/Recipes/Ender Forest"
     },
     {
       "name": "CraftingEndritePickaxe",
@@ -1352,7 +1391,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_endrite_pickaxe"
+      "registry_name": "crafting_endrite_pickaxe",
+      "path": "~/Recipes/Ender Forest"
     },
     {
       "name": "CraftingEndriteSword",
@@ -1361,7 +1401,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crafting_endrite_sword"
+      "registry_name": "crafting_endrite_sword",
+      "path": "~/Recipes/Ender Forest"
     },
     {
       "name": "FireFurnace",
@@ -1380,7 +1421,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "endrite_grass"
+      "registry_name": "endrite_grass",
+      "path": "~/Block/Ender Forest"
     },
     {
       "name": "EndRiteWood",
@@ -1389,7 +1431,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "end_rite_wood"
+      "registry_name": "end_rite_wood",
+      "path": "~/Block/Ender Forest"
     },
     {
       "name": "EndRiteWart",
@@ -1398,7 +1441,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "end_rite_wart"
+      "registry_name": "end_rite_wart",
+      "path": "~/Block/Ender Forest"
     },
     {
       "name": "EndRiteStemSmall1",
@@ -1407,7 +1451,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "end_rite_stem_small_1"
+      "registry_name": "end_rite_stem_small_1",
+      "path": "~/Structure/Ender Forest"
     },
     {
       "name": "EndRiteStemSmall2",
@@ -1416,7 +1461,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "end_rite_stem_small_2"
+      "registry_name": "end_rite_stem_small_2",
+      "path": "~/Structure/Ender Forest"
     },
     {
       "name": "EndRiteStemMedium",
@@ -1425,7 +1471,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "end_rite_stem_medium"
+      "registry_name": "end_rite_stem_medium",
+      "path": "~/Structure/Ender Forest"
     },
     {
       "name": "EndRiteStemLarge",
@@ -1434,7 +1481,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "end_rite_stem_large"
+      "registry_name": "end_rite_stem_large",
+      "path": "~/Structure/Ender Forest"
     },
     {
       "name": "EndRiteStemBig",
@@ -1443,7 +1491,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "end_rite_stem_big"
+      "registry_name": "end_rite_stem_big",
+      "path": "~/Structure/Ender Forest"
     },
     {
       "name": "EndRiteRoots",
@@ -1452,7 +1501,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "end_rite_roots"
+      "registry_name": "end_rite_roots",
+      "path": "~/Block/Ender Forest"
     },
     {
       "name": "NetherNew",
@@ -1522,31 +1572,6 @@
     "name": "~",
     "children": [
       {
-        "name": "CrimsonRiteBiom",
-        "children": [
-          {
-            "name": "Block",
-            "children": []
-          },
-          {
-            "name": "Items",
-            "children": []
-          },
-          {
-            "name": "Recipes",
-            "children": []
-          },
-          {
-            "name": "Entities",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "WastedRiteBiom",
-        "children": []
-      },
-      {
         "name": "Furnace",
         "children": [
           {
@@ -1557,11 +1582,37 @@
       },
       {
         "name": "Block",
-        "children": []
+        "children": [
+          {
+            "name": "Wasted Forest",
+            "children": []
+          },
+          {
+            "name": "Crimson Forest",
+            "children": []
+          },
+          {
+            "name": "Ender Forest",
+            "children": []
+          }
+        ]
       },
       {
         "name": "Items",
-        "children": []
+        "children": [
+          {
+            "name": "Crimson Forest",
+            "children": []
+          },
+          {
+            "name": "Wasted Forest",
+            "children": []
+          },
+          {
+            "name": "Ender Forest",
+            "children": []
+          }
+        ]
       },
       {
         "name": "Entity",
@@ -1569,6 +1620,32 @@
       },
       {
         "name": "Recipes",
+        "children": [
+          {
+            "name": "Crimson Forest",
+            "children": []
+          },
+          {
+            "name": "Wasted Forest",
+            "children": []
+          },
+          {
+            "name": "Ender Forest",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Structure",
+        "children": [
+          {
+            "name": "Ender Forest",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "FurnaceArrow",
         "children": []
       }
     ]
