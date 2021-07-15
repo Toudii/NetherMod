@@ -1515,12 +1515,25 @@
       "metadata": {
         "ep": true
       }
+    },
+    {
+      "name": "EndNew",
+      "type": "dimension",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "end_new",
+      "metadata": {
+        "ep": true
+      }
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.gra.end_new": "End New Portal Igniter",
       "block.gra.endrite_grass": "Endrite Grass",
       "item.gra.wasted_hoe": "Crimson Hoe",
       "item.gra.endrite_nugget": "Endrite Nugget",
