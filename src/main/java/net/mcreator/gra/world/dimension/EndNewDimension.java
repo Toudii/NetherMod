@@ -37,7 +37,6 @@ import net.minecraft.util.ResourceLocation;
 import net.minecraft.util.RegistryKey;
 import net.minecraft.util.Direction;
 import net.minecraft.state.properties.BlockStateProperties;
-import net.minecraft.particles.ParticleTypes;
 import net.minecraft.entity.player.ServerPlayerEntity;
 import net.minecraft.entity.EntitySize;
 import net.minecraft.entity.Entity;
@@ -53,6 +52,7 @@ import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
 import net.minecraft.block.AbstractBlock;
 
+import net.mcreator.gra.particle.EnderForestParticleParticle;
 import net.mcreator.gra.item.EndNewItem;
 import net.mcreator.gra.GraModElements;
 
@@ -101,7 +101,7 @@ public class EndNewDimension extends GraModElements.ModElement {
 		DimensionRenderInfo customEffect = new DimensionRenderInfo(Float.NaN, true, DimensionRenderInfo.FogType.NONE, false, false) {
 			@Override
 			public Vector3d func_230494_a_(Vector3d color, float sunHeight) {
-				return color;
+				return new Vector3d(0.070588235294, 0, 0.070588235294);
 			}
 
 			@Override
@@ -192,7 +192,7 @@ public class EndNewDimension extends GraModElements.ModElement {
 					pz = pos.getZ() + 0.5 + 0.25 * j;
 					vz = random.nextFloat() * 2 * j;
 				}
-				world.addParticle(ParticleTypes.EXPLOSION, px, py, pz, vx, vy, vz);
+				world.addParticle(EnderForestParticleParticle.particle, px, py, pz, vx, vy, vz);
 			}
 			if (random.nextInt(110) == 0)
 				world.playSound(pos.getX() + 0.5, pos.getY() + 0.5, pos.getZ() + 0.5,

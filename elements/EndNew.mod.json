@@ -4,9 +4,6 @@
   "definition": {
     "biomesInDimension": [
       {
-        "value": "the_end"
-      },
-      {
         "value": "small_end_islands"
       },
       {
@@ -17,27 +14,34 @@
       },
       {
         "value": "end_barrens"
+      },
+      {
+        "value": "CUSTOM:EnderForest"
       }
     ],
-    "worldGenType": "End like gen",
+    "worldGenType": "Normal world gen",
     "mainFillerBlock": {
       "value": "Blocks.END_STONE"
     },
     "fluidBlock": {
-      "value": "Blocks.FLOWING_WATER"
+      "value": "Blocks.AIR"
     },
-    "canRespawnHere": false,
+    "airColor": {
+      "value": -15597550,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
     "hasFog": false,
-    "isDark": false,
+    "isDark": true,
     "doesWaterVaporize": false,
     "sleepResult": "BED_EXPLODES",
-    "hasSkyLight": false,
+    "hasSkyLight": true,
     "imitateOverworldBehaviour": false,
     "portalFrame": {
       "value": "Blocks.OBSIDIAN"
     },
     "portalParticles": {
-      "value": "EXPLOSION_NORMAL"
+      "value": "CUSTOM:EnderForestParticle"
     },
     "portalLuminance": 0,
     "portalSound": {

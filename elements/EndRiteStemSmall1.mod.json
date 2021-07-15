@@ -13,7 +13,7 @@
     "spawnXOffset": 0,
     "spawnZOffset": 0,
     "spawnWorldTypes": [
-      "End"
+      "CUSTOM:EndNew"
     ],
     "restrictionBlocks": [
       {
@@ -22,7 +22,7 @@
     ],
     "restrictionBiomes": [
       {
-        "value": "end_highlands"
+        "value": "CUSTOM:EnderForest"
       }
     ],
     "ignoreBlocks": "AIR"

@@ -54,7 +54,7 @@ public class EndRiteStemSmall1Structure extends GraModElements.ModElement {
 					int ck = (pos.getZ() >> 4) << 4;
 					RegistryKey<World> dimensionType = world.getWorld().getDimensionKey();
 					boolean dimensionCriteria = false;
-					if (dimensionType == World.THE_END)
+					if (dimensionType == RegistryKey.getOrCreateKey(Registry.WORLD_KEY, new ResourceLocation("gra:end_new")))
 						dimensionCriteria = true;
 					if (!dimensionCriteria)
 						return false;
@@ -97,7 +97,7 @@ public class EndRiteStemSmall1Structure extends GraModElements.ModElement {
 	@SubscribeEvent
 	public void addFeatureToBiomes(BiomeLoadingEvent event) {
 		boolean biomeCriteria = false;
-		if (new ResourceLocation("end_highlands").equals(event.getName()))
+		if (new ResourceLocation("gra:ender_forest").equals(event.getName()))
 			biomeCriteria = true;
 		if (!biomeCriteria)
 			return;

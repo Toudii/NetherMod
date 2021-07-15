@@ -36,7 +36,7 @@
       },
       "biomes": [
         {
-          "biome": "the_end",
+          "biome": "small_end_islands",
           "parameters": {
             "temperature": 1,
             "humidity": -1,
@@ -46,7 +46,7 @@
           }
         },
         {
-          "biome": "small_end_islands",
+          "biome": "end_midlands",
           "parameters": {
             "temperature": 0.5,
             "humidity": -0.5,
@@ -56,7 +56,7 @@
           }
         },
         {
-          "biome": "end_midlands",
+          "biome": "end_highlands",
           "parameters": {
             "temperature": 0,
             "humidity": 0,
@@ -66,7 +66,7 @@
           }
         },
         {
-          "biome": "end_highlands",
+          "biome": "end_barrens",
           "parameters": {
             "temperature": -0.5,
             "humidity": 0.5,
@@ -76,7 +76,7 @@
           }
         },
         {
-          "biome": "end_barrens",
+          "biome": "gra:ender_forest",
           "parameters": {
             "temperature": -1,
             "humidity": 1,
@@ -90,43 +90,41 @@
     "settings": {
       "name": "gra:end_new",
       "bedrock_roof_position": -10,
-      "bedrock_floor_position": -10,
-      "sea_level": 0,
+      "bedrock_floor_position": 0,
+      "sea_level": 63,
       "disable_mob_generation": true,
       "default_block": {
         "Name": "minecraft:end_stone"
       },
       "default_fluid": {
-        "Name": "minecraft:water",
-        "Properties": {
-          "level": "0"
-        }
+        "Name": "minecraft:air"
       },
       "noise": {
-        "density_factor": 0,
-        "density_offset": 0,
+        "min_y": 0,
+        "height": 256,
+        "density_factor": 1,
+        "density_offset": -0.46875,
+        "size_horizontal": 1,
+        "size_vertical": 2,
         "simplex_surface_noise": true,
-        "random_density_offset": false,
-        "island_noise_override": true,
+        "random_density_offset": true,
+        "island_noise_override": false,
         "amplified": false,
-        "size_horizontal": 2,
-        "size_vertical": 1,
-        "height": 128,
         "sampling": {
-          "xz_scale": 2,
+          "xz_scale": 1,
           "y_scale": 1,
           "xz_factor": 80,
           "y_factor": 160
         },
         "bottom_slide": {
           "target": -30,
-          "size": 7,
-          "offset": 1
+          "size": 0,
+          "offset": 0
         },
         "top_slide": {
-          "target": -3000,
-          "size": 64,
-          "offset": -46
+          "target": -10,
+          "size": 3,
+          "offset": 0
         }
       },
       "structures": {
